@@ -180,6 +180,7 @@ body{
     color: white;
     padding: 14px 16px;
     background-color:  rgba(12, 0, 175, 0.904);
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0; 
   }
 .dropdown:hover .dropbtn {
